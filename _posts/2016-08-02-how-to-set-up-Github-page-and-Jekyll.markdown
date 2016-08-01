@@ -5,7 +5,7 @@ date:   2016-08-02 00:01:03 +0800
 categories: code
 ---
 
-这个博客是用Jekyll在Github Pages上搭建了，这里分享记录一下这个过程，我参考的教程有以下几个英文页面：
+这个博客是用Jekyll在Github Pages上搭建的，这里分享记录一下这个过程，我参考的教程有以下几个英文页面：
 
 [Setting up your GitHub Pages site locally with Jekyll](https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/)
 
@@ -30,13 +30,13 @@ gem 'github-pages', group: :jekyll_plugins
 $ bundle install
 {% endhighlight %}
 
-5 － 运行以下代码建立Jekyll网站模版
+5. Item 5 运行以下代码建立Jekyll网站模版
 
 {% highlight code %}
 $ bundle exec jekyll new . --force
 {% endhighlight %}
 
-6 － 测试运行
+6. Item 6 测试运行
 
 {% highlight code %}
 $ bundle exec jekyll serve
