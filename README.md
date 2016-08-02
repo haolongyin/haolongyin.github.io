@@ -1,3 +1,3 @@
 # haolongyin.github.io
 
-Jekyll source code
+Jekyll source code, please visit http://iamhenry.net
