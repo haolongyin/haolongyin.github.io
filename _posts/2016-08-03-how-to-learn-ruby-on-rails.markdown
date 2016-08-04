@@ -1,16 +1,10 @@
 ---
 layout: post
-title:  "在Github Pages上架设Jekyll!"
-date:   2016-08-02 00:01:03 +0800
+title:  "入门Ruby on Rails的一些资源"
+date:   2016-08-03 00:01:03 +0800
 categories: code
 ---
 
----
-layout: post
-title:  "在Github Pages上架设Jekyll!"
-date:   2016-08-02 00:01:03 +0800
-categories: code
----
 
 我自己学习Ruby on Rails入门的一些值得推荐的资源：
 
